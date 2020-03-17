@@ -4,6 +4,4 @@ Diversos gráficos con los datos diarios publicados por **Centro Europeo para la
 
 Si se sigue manteniendo la convención de la denominación, el notebook seleccionará el fichero más reciente.
 
-<div style="background-color:lightblue">
-**OJO !!!** me he encontrado con algún cambio de formato del fichero **excel**, de un día para otro, por lo que podría ser que se repitiera en el futuro.
-</div>
+ > **OJO !!!** me he encontrado con algún cambio de formato del fichero **excel**, de un día para otro. Por lo que podría ser que se repitiera en el futuro.
