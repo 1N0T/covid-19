@@ -5,3 +5,15 @@ Diversos gráficos con los datos diarios publicados por **Centro Europeo para la
 Si se sigue manteniendo la convención de la denominación, el notebook seleccionará el fichero más reciente.
 
  > **OJO !!!** me he encontrado con algún cambio de formato del fichero **excel**, de un día para otro. Por lo que podría ser que se repitiera en el futuro.
+
+### Dependencias.
+Para ejecutar el notebook necesitas instalar.
+ * jupyter notebook.
+ * pandas.
+ * matplotlib.
+ * seaborn (se hace un uso meramente cosmético, se podría eleminar del notebook).
+ * xlrd (para procesar los ficheros excel).
+ 
+### Resultado.
+Este es el aspecto del resultado que puedes obtener.
+![img01](https://raw.github.com/1N0T/images/master/covid-19/covid-19.png)
