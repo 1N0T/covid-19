@@ -6,6 +6,8 @@ Si se sigue manteniendo la convención de la denominación, el notebook seleccio
 
  > **OJO !!!** me he encontrado con algún cambio de formato del fichero **excel**, de un día para otro. Por lo que podría ser que se repitiera en el futuro.
 
+También he añadido datos recopilados por **Datadista** del **Ministerio de Sanidad, Consumo y Bienestar Social**.
+
 ### Dependencias.
 Para ejecutar el notebook necesitas instalar.
  * jupyter notebook.
