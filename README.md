@@ -15,6 +15,7 @@ Para ejecutar el notebook necesitas instalar.
  * matplotlib.
  * seaborn (se hace un uso meramente cosmético, se podría eleminar del notebook).
  * xlrd (para procesar los ficheros excel).
+ * Pillow (para insertar imagen de fondo).
  
 ### Resultado.
 Este es el aspecto del resultado que puedes obtener.
