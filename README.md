@@ -14,6 +14,7 @@ Para ejecutar el notebook necesitas instalar.
  * pandas.
  * matplotlib.
  * seaborn (se hace un uso meramente cosmético, se podría eleminar del notebook).
+ * scipy (para la curva sigmoide).
  * xlrd (para procesar los ficheros excel).
  * Pillow (para insertar imagen de fondo).
  
