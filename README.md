@@ -26,3 +26,11 @@ Este es el aspecto del resultado que puedes obtener.
 ![img01](https://raw.github.com/1N0T/images/master/covid-19/covid-19-molins.png)
 ![img01](https://raw.github.com/1N0T/images/master/covid-19/covid-19-catalunya-altas.png)
 ![img01](https://raw.github.com/1N0T/images/master/covid-19/covid-19-mundial.png)
+
+### Aplicación interactiva.
+Tambíén he publicado una aplicación **vuejs** con la que se pueden consultar, para cada municipio de Catalunya, la evolución de positivos diarios (PCR + test rápidos).
+
+https://1n0t.github.io/covid-19
+
+![img01](https://raw.github.com/1N0T/images/master/covid-19/covid-19-municipios-catalunya.png)
+
